@@ -1,0 +1,2 @@
+:root{font-size:16px}@media only screen and (max-width:48em){:root{font-size:14px}}#root{height:100vh;min-height:100vh}#root,#root>div{display:flex;flex-direction:column}#root>div{flex-grow:1}
+/*# sourceMappingURL=main.9009c3c7.chunk.css.map */
